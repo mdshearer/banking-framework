@@ -7,7 +7,7 @@ I'm not an expert, but I want to share what I've learnt so far.
 
 ![banking image](Banking Framework (1).png)
 
-Here is a description of an account framework that a banking guru shared with me. It ensures that you prioritise paying your bills, actually stick to your budget, and track your cash flow. I hope this helps other people make a start on untangling this stuff! 
+Here is a description of an account framework that Malcolm came up with when he was helping some of his friends with their finances. It ensures that you prioritise paying your bills, actually stick to your budget, and track your cash flow. The idea is that your money management is made so simple it can't fail. I hope this helps other people make a start on untangling this stuff! 
 
 My personal situation: I am a freelance software developer, living a fun but unpredictable life with varied income. I don't get regular payments, I go through times of abudance and dry spells. I want be in control of my money, know what is sensible for me to spend, and save. 
 
